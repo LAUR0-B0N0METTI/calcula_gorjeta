@@ -35,9 +35,11 @@ Exemplos:
 
 O exemplo fornecido demonstra a execução do programa e exibe o resumo do cálculo da gorjeta.
 
-Capturas de Tela:
 
-![alt text](image.png)
+Captura de Tela:
+
+![image](https://github.com/bonolauro/calcula_gorjeta/assets/70168371/4b9bf5aa-d2af-47bf-92e2-04f777e03451)
+
 
 _______________________________________________________________________
 
