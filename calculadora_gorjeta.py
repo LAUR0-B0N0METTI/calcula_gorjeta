@@ -33,5 +33,5 @@ def calculadora_de_gorjeta():
     print(f"Gorjeta ({percentual_gorjeta}%): R$ {valor_gorjeta:.2f}")
     print(f"Total a Pagar: R$ {total_pagar:.2f}")
 
-# Chamar a função principal
+# Chama a função principal
 calculadora_de_gorjeta()
